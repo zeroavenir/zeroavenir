@@ -17,7 +17,7 @@ Aujourd’hui, je me passionne pour deux axes précis :
 ## Stats
 ![Mon Stat GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroavenir&layout=compact)
 
-![Image de couverture]("https://tryhackme-badges.s3.amazonaws.com/zero.onion.png)
+![Image de couverture](https://images7.alphacoders.com/339/339509.jpg)
 
 <!---
 zeroavenir/zeroavenir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
