@@ -1,7 +1,18 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@             
+@@ @@               @@ @@                    
+@@ @@               @@ @@        
+@@ @@               @@ @@ 
+@@ @@ @0/zero.onion @@ @@ 
+@@ @@               @@ @@ 
+@@ @@               @@ @@ 
+@@ @@               @@ @@        
+@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@
+
 ### zero.onion bio.
 ### Guns : https://guns.lol/zero.onion
 
-@0.  
 Je m'intéresse à l'informatique depuis mon enfance j'ai eu mon premier pc a 9ans et depuis j'ai une passion par rapport au pc et l'info. 
 Ce domaine est tellement vaste que j’ai longtemps hésité par où commencer.  
 
