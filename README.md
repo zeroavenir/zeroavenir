@@ -18,7 +18,6 @@ Aujourd’hui, je me passionne pour deux axes précis :
 ![Mon Stat GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroavenir&layout=compact)
 
 ## Contact 
-
 ![Signal](https://signal.me/#eu/uE46uuSXDGu7jHgFOKRjgBCNgiwnrOWTmrbU9YZWjeZtBjxjT4pIk4fGLbGTY8YS)
 Discord : zero.onion
 
