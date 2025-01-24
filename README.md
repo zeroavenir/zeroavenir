@@ -20,7 +20,7 @@ Aujourd’hui, je me passionne pour deux axes précis :
 ## Bientôt sur TryHackMe
 ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4103196)
 
-![Image de couverture](https://images7.alphacoders.com/339/339509.jpg)
+![Image de couverture]("https://tryhackme-badges.s3.amazonaws.com/zero.onion.png)
 
 <!---
 zeroavenir/zeroavenir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
