@@ -1,13 +1,6 @@
 ### zero.onion bio.
 ### Guns : https://guns.lol/zero.onion
 
-Je m'intéresse à l'informatique depuis mon enfance j'ai eu mon premier pc a 9ans et depuis j'ai une passion par rapport au pc et l'info. 
-Ce domaine est tellement vaste que j’ai longtemps hésité par où commencer.  
-
-Aujourd’hui, je me passionne pour deux axes précis :  
-1. **Le codage et la création de sites web**.  
-2. **La cybersécurité**, un domaine que je découvre lentement.
-
 ## Langages que je suis en train d'apprendre
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
