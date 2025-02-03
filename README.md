@@ -12,7 +12,7 @@
 
 ## Contact 
 Signal : https://signal.me/#eu/uE46uuSXDGu7jHgFOKRjgBCNgiwnrOWTmrbU9YZWjeZtBjxjT4pIk4fGLbGTY8YS
-Discord : zero.onion
+Discord : agressions
 
 ![Image de couverture](https://images7.alphacoders.com/339/339509.jpg)
 
