@@ -1,5 +1,5 @@
 ### zero.onion bio.
-### Guns : https://guns.lol/zero.onion
+### Guns : https://guns.lol/agression
 
 ## Langages que je suis en train d'apprendre
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,7 +12,7 @@
 
 ## Contact 
 Signal : https://signal.me/#eu/uE46uuSXDGu7jHgFOKRjgBCNgiwnrOWTmrbU9YZWjeZtBjxjT4pIk4fGLbGTY8YS
-Discord : agressions
+Discord : intensifs
 
 ![Image de couverture](https://images7.alphacoders.com/339/339509.jpg)
 
